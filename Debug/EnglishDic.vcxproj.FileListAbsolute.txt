@@ -1,0 +1,2 @@
+C:\Users\gamef\자료구조\11장\EnglishDic\Debug\EnglishDic.exe
+C:\Users\gamef\자료구조\11장\EnglishDic\Debug\EnglishDic.pdb
